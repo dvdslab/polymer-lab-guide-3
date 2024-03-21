@@ -147,7 +147,7 @@ For Base API, head to [Base Sepolia - API keys | Blockscout](https://base-sepoli
 
 For Optimism API, it is similar to base [OP Sepolia - API keys | Blockscout](https://optimism-sepolia.blockscout.com/account/api-key). Now to get drip from optimism faucet, [Superchain Faucet (optimism.io)](https://app.optimism.io/faucet), you have to Enable Github 2FA from settings to request for faucet. https://github.com/settings/security 
 
-![cat.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/c0ad7768-8ab8-4c2d-a5be-e4f111902e12/cat.jpeg)
+![cat.jpeg]([https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/c0ad7768-8ab8-4c2d-a5be-e4f111902e12/cat.jpeg](https://www.notion.so/dvdslab/Polymer-Labs-challenge-3-guide-41aa430897524e10811547197a28ca8c?pvs=4#de9005b93e9f41368a60328014b2edcc))
 
 ![cat1.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/8ca19c71-0c11-49dd-bd0c-18e2a9e5c5c6/cat1.jpeg)
 
