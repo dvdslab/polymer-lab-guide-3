@@ -149,9 +149,9 @@ For Optimism API, it is similar to base [OP Sepolia - API keys | Blockscout](htt
 
 ![cat.jpeg](https://res.cloudinary.com/wordy/image/upload/v1710997048/cat_lpue0i.jpg)
 
-![cat1.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/8ca19c71-0c11-49dd-bd0c-18e2a9e5c5c6/cat1.jpeg)
+![cat1.jpeg](https://res.cloudinary.com/wordy/image/upload/v1710997049/cat1_cgi9ls.jpg)
 
-![cat2.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/009ec70a-d959-4c95-972f-f7680bd689a9/cat2.jpeg)
+![cat2.jpeg](https://res.cloudinary.com/wordy/image/upload/v1710997049/cat2_vpwnxd.jpg)
 
 7. set up environment
 
@@ -203,26 +203,30 @@ then run  “just run-challenge-3” in the terminal
 
 you would get this with different details
 
-![Screenshot 2024-03-21 at 5.11.46 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/cfb29ad1-b9f4-4a1a-ae9d-c5d2020d26d3/Screenshot_2024-03-21_at_5.11.46_AM.png)
+![Screenshot 2024-03-21 at 5.11.46 AM.png](https://res.cloudinary.com/wordy/image/upload/v1710997030/Screenshot_2024-03-21_at_5.11.46_AM_saicxy.png)
 
 ctrl + click on the explorer URL which will take you to the scan
 
 them click on logs
 
-![Screenshot 2024-03-21 at 5.19.13 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/2eba459b-e91f-4193-8df6-b9b5c170b9af/Screenshot_2024-03-21_at_5.19.13_AM.png)
+![Screenshot 2024-03-21 at 5.19.13 AM.png](https://res.cloudinary.com/wordy/image/upload/v1710997030/Screenshot_2024-03-21_at_5.19.13_AM_hmi0jm.png)
 
-![Screenshot 2024-03-21 at 5.24.03 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/80de4748-a0ac-44cf-9f56-025c9981220e/Screenshot_2024-03-21_at_5.24.03_AM.png)
+![Screenshot 2024-03-21 at 5.24.03 AM.png](https://res.cloudinary.com/wordy/image/upload/v1710997030/Screenshot_2024-03-21_at_5.24.03_AM_tgzxa9.png)
 
 click on the circled text to take you to the contract.
 
-![Screenshot 2024-03-21 at 5.25.25 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/d3f24335-2c9b-46cc-9276-a4bfaa168209/Screenshot_2024-03-21_at_5.25.25_AM.png)
+![Screenshot 2024-03-21 at 5.25.25 AM.png](https://res.cloudinary.com/wordy/image/upload/v1710997031/Screenshot_2024-03-21_at_5.25.25_AM_msjpko.png)
 
 click on logs again
 
 ”
 
-![Screenshot 2024-03-21 at 5.25.35 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/69598124-8ae6-4204-98ac-896368d0d1b1/39e46668-cb13-40fe-991a-5aefd938f6c8/Screenshot_2024-03-21_at_5.25.35_AM.png)
+![Screenshot 2024-03-21 at 5.25.35 AM.png](https://res.cloudinary.com/wordy/image/upload/v1710997030/Screenshot_2024-03-21_at_5.25.35_AM_bj0x1d.png)
 
 THIS IS ONE OF THE SCREENSHOT YOU NEED TO POST ON THE PROOF CHANNEL
 
 Now head to [IBC Explorer (polymer.zone)](https://sepolia.polymer.zone/packets) and check amond the recently delivered state and check if the **Ack Tx** matched the one in the scan.
+
+![Screenshot 2024-03-21 at 5.31.52 AM.png](https://res.cloudinary.com/wordy/image/upload/v1710997030/Screenshot_2024-03-21_at_5.31.52_AM_uvsmju.png)
+
+![Screenshot 2024-03-21 at 5.31.46 AM.png](https://res.cloudinary.com/wordy/image/upload/v1710997031/Screenshot_2024-03-21_at_5.31.46_AM_o6kdna.png)
